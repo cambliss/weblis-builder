@@ -11,41 +11,41 @@ export default function Hero() {
       <div className="relative z-10 max-w-5xl mx-auto text-center">
         <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-yellow-400/10 border border-yellow-400/30 mb-8">
           <Zap className="w-4 h-4 text-yellow-400" />
-          <span className="text-sm font-medium text-yellow-300">Open-Source Website Builder</span>
+          <span className="text-sm font-medium text-yellow-300">Next-Generation Website Builder</span>
         </div>
 
         <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold text-white mb-6 leading-tight">
-          Build Websites Instantly with{' '}
+          Create Stunning Websites in{' '}
           <span className="text-yellow-400">
-            Weblis
+            Minutes
           </span>
         </h1>
 
         <p className="text-xl sm:text-2xl text-gray-300 mb-12 max-w-2xl mx-auto leading-relaxed">
-          A powerful open-source, drag-and-drop website builder—hosted on your domain. No coding required.
+          Transform your ideas into professional websites with Weblis. Advanced AI-powered design tools that deliver enterprise-level results.
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <button className="px-8 py-4 bg-yellow-400 text-black font-semibold rounded-lg hover:shadow-lg hover:shadow-yellow-400/50 transition-all duration-300 transform hover:scale-105">
-            Launch Weblis Demo
+            Start Building Now
           </button>
           <button className="px-8 py-4 bg-white/10 text-white font-semibold rounded-lg border border-white/20 hover:bg-white/20 transition-all duration-300">
-            Learn More
+            View Live Examples
           </button>
         </div>
 
         <div className="mt-16 grid grid-cols-2 sm:grid-cols-3 gap-6 text-left max-w-2xl mx-auto">
           <div className="bg-white/5 border border-white/10 rounded-lg p-4">
-            <div className="text-2xl font-bold text-yellow-400 mb-1">100%</div>
-            <div className="text-sm text-gray-400">Open Source</div>
+            <div className="text-2xl font-bold text-yellow-400 mb-1">10x</div>
+            <div className="text-sm text-gray-400">Faster Build</div>
           </div>
           <div className="bg-white/5 border border-white/10 rounded-lg p-4">
-            <div className="text-2xl font-bold text-yellow-300 mb-1">Self-Hosted</div>
-            <div className="text-sm text-gray-400">Full Control</div>
+            <div className="text-2xl font-bold text-yellow-300 mb-1">AI-Powered</div>
+            <div className="text-sm text-gray-400">Smart Design</div>
           </div>
           <div className="bg-white/5 border border-white/10 rounded-lg p-4">
-            <div className="text-2xl font-bold text-yellow-400 mb-1">PHP & MySQL</div>
-            <div className="text-sm text-gray-400">Fast & Secure</div>
+            <div className="text-2xl font-bold text-yellow-400 mb-1">500+</div>
+            <div className="text-sm text-gray-400">Pro Templates</div>
           </div>
         </div>
       </div>

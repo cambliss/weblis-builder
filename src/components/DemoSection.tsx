@@ -8,15 +8,15 @@ export default function DemoSection() {
           <div className="flex flex-col md:flex-row items-center gap-12">
             <div className="flex-1">
               <h2 className="text-4xl sm:text-5xl font-bold text-black mb-4">
-                Try the Builder Now
+                See AI-Powered Design in Action
               </h2>
               <p className="text-xl text-gray-700 mb-8 leading-relaxed">
-                Experience the power of Weblis firsthand. Launch our interactive demo and start building your first website in minutes. No sign-up required.
+                Watch how Weblis transforms your ideas into stunning, professional websites in real-time. Advanced AI algorithms create pixel-perfect designs that convert visitors into customers.
               </p>
 
               <button className="inline-flex items-center gap-3 px-8 py-4 bg-yellow-400 text-black font-semibold rounded-lg hover:shadow-lg hover:shadow-yellow-400/50 transition-all duration-300 transform hover:scale-105">
                 <Play className="w-5 h-5" />
-                Launch Weblis Demo
+                Watch Live Demo
               </button>
             </div>
 
@@ -29,7 +29,7 @@ export default function DemoSection() {
                       <div className="inline-flex p-4 bg-yellow-400/20 rounded-full mb-4">
                         <Play className="w-8 h-8 text-yellow-400" />
                       </div>
-                      <p className="text-gray-400 font-medium">Demo Interface Preview</p>
+                      <p className="text-gray-400 font-medium">AI Builder Interface</p>
                     </div>
                   </div>
                 </div>
